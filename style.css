@@ -1,0 +1,25 @@
+h1{
+    color:rgb(24, 22, 20);
+    background-color:bisque;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.header{
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color:cadetblue;
+}
+
+h2{
+    color:crimson;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: "cursive";
+}
+p{
+    color:darksalmon;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
